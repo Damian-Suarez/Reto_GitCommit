@@ -1,4 +1,2 @@
-0 No Painting Lights
-1 No Painting No Lights
-2 Painting No Lights
-3 Painting with Lights
+0 LUZ
+1 OSCURIDAD
